@@ -9,6 +9,13 @@
     margin-right: 8px;
   }
 
+  .subscribe-button:hover {
+    background-color: rgb(255, 0, 0);
+  }
+  .subscribe-button:active {
+    background-color: rgb(150, 0, 0);
+  }
+
   .join-button {
    background-color: white;
    color: blue;
