@@ -6,8 +6,29 @@
     width: 90px;
     border-radius: 2px;
     cursor: pointer;
+    margin-right: 8px;
   }
 
   .join-button {
-   
+   background-color: white;
+   color: blue;
+   border-radius: 2px;
+   border: 1px solid blue;
+   height: 36px;
+   width: 64px;
+   cursor: pointer;
+   margin-right: 8px;
+  }
+
+  .tweet-button {
+   background-color: rgb(69, 153, 213);
+   color: white;
+   border-radius: 18px;
+   border: none;
+   height: 36px;
+   width: 70px;
+   cursor: pointer;
+   margin-right: 8px;
+   font-weight: bold;
+   font-size: 12px;
   }
