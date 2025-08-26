@@ -64,10 +64,19 @@
     font-weight: bold;
     width: 300px;
     line-height: 25px;
+    margin-bottom: 5px;
   }
   .video-stats {
     font-family: Arial;
     font-size: 12px;
     color: rgb( 98, 96, 96);
     margin-top: 4px;
+    margin-top: 0px;
   }
+.video-author {
+  font-family: Arial;
+  font-size: 12px;
+  color: rgb(98, 96, 96);
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
