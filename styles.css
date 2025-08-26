@@ -57,3 +57,17 @@
   .tweet-button:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
   }
+
+  .video-title {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+  }
+  .video-stats {
+    font-family: Arial;
+    font-size: 12px;
+    color: rgb( 98, 96, 96);
+    margin-top: 4px;
+  }
