@@ -58,25 +58,56 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
   }
 
-  .video-title {
+  p {
     font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0%;
+  }
+  .video-title {
     font-size: 18px;
     font-weight: bold;
     width: 300px;
     line-height: 25px;
-    margin-bottom: 5px;
   }
   .video-stats {
-    font-family: Arial;
     font-size: 12px;
     color: rgb( 98, 96, 96);
-    margin-top: 4px;
-    margin-top: 0px;
   }
 .video-author {
-  font-family: Arial;
   font-size: 12px;
   color: rgb(98, 96, 96);
-  margin-top: 0px;
-  margin-bottom: 5px;
+  margin-top: 4px;
+  margin-bottom: 100px;
+}
+
+.apple-text{
+  font-size: 10px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  text-align: center;
+   
+}
+
+.hover{
+  cursor: pointer;
+}
+.hover:hover{
+  text-decoration: underline;
+}
+.demo-test{
+  font-size: 10px;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 12px;
+}
+
+.span-example{
+  color: red;
+}
+
+.span-example :hover{
+  text-decoration: underline;
 }
